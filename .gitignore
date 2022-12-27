@@ -1,0 +1,6 @@
+secrets.yaml
+.classpath
+.project
+.settings/
+bin/
+src/
