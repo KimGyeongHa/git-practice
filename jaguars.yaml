@@ -3,5 +3,5 @@ members :
 
 manager: BigBongChan
 
-fetch Test
+fetch : test
 
