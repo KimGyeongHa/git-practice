@@ -4,4 +4,4 @@ secrets.yaml
 .settings/
 bin/
 .idea
-git-practice.iml
+.idea/git-practice.iml
