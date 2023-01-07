@@ -3,3 +3,4 @@ secrets.yaml
 .project
 .settings/
 bin/
+.idea
