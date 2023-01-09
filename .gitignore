@@ -3,3 +3,5 @@ secrets.yaml
 .project
 .settings/
 bin/
+.idea
+.idea/git-practice.iml
