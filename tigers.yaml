@@ -12,7 +12,11 @@ members:
 - Gamora
 - Nebula
 - Bong
+- Gamora
+- Nebula
 
 coach: Ronan
 
 fetch : this
+fetch : this2
+
